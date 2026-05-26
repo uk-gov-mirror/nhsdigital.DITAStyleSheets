@@ -18,8 +18,8 @@
 
       <p>The NHS Data Model and Dictionary Service are currently moving to a new authoring and publishing tool (Mauro)
           and the latest release has been updated using this. Therefore, if any discrepancies with
-          any of the pages are noticed, please contact the Service Desk via email <xref
-          href="mailto:support.digitalservices@nhs.net?subject=NHS%20Data%20Model%20and%20Dictionary%20Query"
+          any of the pages are noticed, please contact the Service Desk via email 
+          <a href="mailto:support.digitalservices@nhs.net?subject=NHS%20Data%20Model%20and%20Dictionary%20Query"
           format="html" scope="external">support.digitalservices@nhs.net</xref>.</p>
     </div>
     <div class="col-md-4 col-sm-hidden align-self-center">
