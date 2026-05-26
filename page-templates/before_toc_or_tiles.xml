@@ -15,6 +15,12 @@
       <p>The NHS Data Model and Dictionary is maintained and published by the <a
           href="https://digital.nhs.uk/services/nhs-data-model-and-dictionary-service">NHS Data
           Model and Dictionary Service</a>.</p>
+
+      <p>We are currently in the process of moving to a new authoring and publishing tool (Mauro)
+          and the latest release has been updated using this. Therefore, if any discrepancies with
+          any of the pages are noticed, please contact the Service Desk via email <xref
+          href="mailto:support.digitalservices@nhs.net?subject=NHS Data Model and Dictionary Query"
+          format="html" scope="external">support.digitalservices@nhs.net</xref>.</p>
     </div>
     <div class="col-md-4 col-sm-hidden align-self-center">
       <div class="my-auto">
